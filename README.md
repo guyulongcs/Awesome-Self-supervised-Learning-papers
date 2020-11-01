@@ -51,18 +51,18 @@
 
 
 #### Multi-task_Self-supervised_Learning
-* [2017 (ICCV) Multi-task Self-Supervised Visual Learning](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Multi-task_Self-supervised_Learning/2017%20%28ICCV%29%20Multi-task%20Self-Supervised%20Visual%20Learning.pdf) <br />
+* [2017 (DeepMind) (ICCV) Multi-task Self-Supervised Visual Learning](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Multi-task_Self-supervised_Learning/2017%20%28DeepMind%29%20%28ICCV%29%20Multi-task%20Self-Supervised%20Visual%20Learning.pdf) <br />
 * [2018 (CVPR) Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Multi-task_Self-supervised_Learning/2018%20%28CVPR%29%20Cross-domain%20Self-supervised%20Multi-task%20Feature%20Learning%20Using%20Synthetic%20Imagery.pdf) <br />
 
 #### Reninfocement_Learning
-* [2019 (NIPS) Unsupervised State Representation Learning in Atari](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Reninfocement_Learning/2019%20%28NIPS%29%20Unsupervised%20State%20Representation%20Learning%20in%20Atari.pdf) <br />
+* [2019 (Yoshua Bengio) (NIPS) Unsupervised State Representation Learning in Atari](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Reninfocement_Learning/2019%20%28Yoshua%20Bengio%29%20%28NIPS%29%20Unsupervised%20State%20Representation%20Learning%20in%20Atari.pdf) <br />
 
 #### Self-supervised_and_Semi-supervised_Learning
 * [2019 (Facebook) (Arxiv) Billion-scale semi-supervised learning for image classification](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Self-supervised_and_Semi-supervised_Learning/2019%20%28Facebook%29%20%28Arxiv%29%20Billion-scale%20semi-supervised%20learning%20for%20image%20classification.pdf) <br />
-* [2019 (ICCV) S​4L - Self-Supervised Semi-Supervised Learning](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Self-supervised_and_Semi-supervised_Learning/2019%20%28ICCV%29%20S%E2%80%8B4L%20-%20Self-Supervised%20Semi-Supervised%20Learning.pdf) <br />
+* [2019 (Google) (ICCV) S​4L - Self-Supervised Semi-Supervised Learning](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Self-supervised_and_Semi-supervised_Learning/2019%20%28Google%29%20%28ICCV%29%20S%E2%80%8B4L%20-%20Self-Supervised%20Semi-Supervised%20Learning.pdf) <br />
 
 #### Self_training
-* [2020 (CVPR) Self-Training With Noisy Student Improves ImageNet Classification](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Self_training/2020%20%28CVPR%29%20Self-Training%20With%20Noisy%20Student%20Improves%20ImageNet%20Classification.pdf) <br />
+* [2020 (Google) (CVPR) Self-Training With Noisy Student Improves ImageNet Classification](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Self_training/2020%20%28Google%29%20%28CVPR%29%20Self-Training%20With%20Noisy%20Student%20Improves%20ImageNet%20Classification.pdf) <br />
 * [2020 (Google) (NIPS) Rethinking Pre-training and Self-training](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/5_Machine_Learning_Perspective/Self_training/2020%20%28Google%29%20%28NIPS%29%20Rethinking%20Pre-training%20and%20Self-training.pdf) <br />
 
 #### Task_Related_Self-supervised_Learning
