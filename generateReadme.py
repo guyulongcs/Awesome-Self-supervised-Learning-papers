@@ -52,7 +52,7 @@ for line in all_lines:
         paper_class_flag = 1
         paper_class_name = line[3:].strip()
 
-github_root = "https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/"
+github_root = "https://github.com/guyulongcs/Awesome-Self-supervised-Learning-papers/blob/master/"
 all_dir = os.listdir("./")
 all_dir.sort()
 for one_dir in all_dir:
