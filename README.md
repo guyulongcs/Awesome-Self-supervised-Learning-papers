@@ -54,8 +54,8 @@
 * [2017 (DeepMind) (ICCV) Multi-task Self-Supervised Visual Learning](https://github.com/guyulongcs/Awesome-Self-supervised-Learning-papers/blob/master/5_ML/Multi-task_Self-supervised_Learning/2017%20%28DeepMind%29%20%28ICCV%29%20Multi-task%20Self-Supervised%20Visual%20Learning.pdf) <br />
 * [2018 (CVPR) Cross-domain Self-supervised Multi-task Feature Learning Using Synthetic Imagery](https://github.com/guyulongcs/Awesome-Self-supervised-Learning-papers/blob/master/5_ML/Multi-task_Self-supervised_Learning/2018%20%28CVPR%29%20Cross-domain%20Self-supervised%20Multi-task%20Feature%20Learning%20Using%20Synthetic%20Imagery.pdf) <br />
 
-#### Reninfocement_Learning
-* [2019 (Yoshua Bengio) (NIPS) Unsupervised State Representation Learning in Atari](https://github.com/guyulongcs/Awesome-Self-supervised-Learning-papers/blob/master/5_ML/Reninfocement_Learning/2019%20%28Yoshua%20Bengio%29%20%28NIPS%29%20Unsupervised%20State%20Representation%20Learning%20in%20Atari.pdf) <br />
+#### Reinforcement_Learning
+* [2019 (Yoshua Bengio) (NIPS) Unsupervised State Representation Learning in Atari](https://github.com/guyulongcs/Awesome-Self-supervised-Learning-papers/blob/master/5_ML/Reinforcement_Learning/2019%20%28Yoshua%20Bengio%29%20%28NIPS%29%20Unsupervised%20State%20Representation%20Learning%20in%20Atari.pdf) <br />
 
 #### Self-supervised_and_Semi-supervised_Learning
 * [2019 (Facebook) (Arxiv) Billion-scale semi-supervised learning for image classification](https://github.com/guyulongcs/Awesome-Self-supervised-Learning-papers/blob/master/5_ML/Self-supervised_and_Semi-supervised_Learning/2019%20%28Facebook%29%20%28Arxiv%29%20Billion-scale%20semi-supervised%20learning%20for%20image%20classification.pdf) <br />
